@@ -1,0 +1,7 @@
+{
+  "name": "2026 東北 3 縣旅程 (秋田・山形・宮城)",
+  "description": "適合手機使用的互動式日本東北九日遊行程規劃與轉乘時刻表工具。",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
